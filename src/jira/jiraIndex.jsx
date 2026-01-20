@@ -17,7 +17,7 @@ export function JiraIndex() {
         <JiraHeader />
       </header>
       <section className=" mt-2 row">
-        <BrowserRouter>
+        
           <nav className="col-2 border ">
             <div>
               <h6>PLANNING</h6>
@@ -69,7 +69,7 @@ export function JiraIndex() {
               <Route path="settings" element={<JiraSettings />}/>
             </Routes>
           </main>
-        </BrowserRouter>
+        
       </section>
     </div>
   )

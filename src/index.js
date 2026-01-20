@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import { BrowserRouter } from 'react-router-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
@@ -27,10 +28,11 @@ import { JiraIndex } from './jira/jiraIndex';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-
+   <BrowserRouter basename="/jira-demo-board">
   <React.StrictMode>
     <JiraIndex/>
   </React.StrictMode>
+  </BrowserRouter>
   
 );
 
