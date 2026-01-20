@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Salesforce CRM",
+        "duration": "60days",
+        "faculty": "Mr. Adhan",
+        "image": "sales-force.png"
+    },
+    {
+        "title": "Playwright Automation",
+        "duration": "2 Months",
+        "faculty": "Real Time Expert",
+        "image": "playwright.png"
+    },
+    {
+        "title": ".NET",
+        "duration": "4 Months",
+        "faculty": "Mr. Bagnar Raju",
+        "image": "dot-net.png"
+    },
+    {
+        "title": "Java",
+        "duration": "4 Months",
+        "faculty": "Mr. Kishan",
+        "image": "Java.png"
+    }
+]
