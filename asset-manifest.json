@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/jira-demo-board/static/css/main.ae0fc753.css",
+    "main.js": "/jira-demo-board/static/js/main.5abfaf3b.js",
+    "static/js/453.1d2fb7f9.chunk.js": "/jira-demo-board/static/js/453.1d2fb7f9.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/jira-demo-board/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/jira-demo-board/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/logo.svg": "/jira-demo-board/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jira-demo-board/index.html",
+    "main.ae0fc753.css.map": "/jira-demo-board/static/css/main.ae0fc753.css.map",
+    "main.5abfaf3b.js.map": "/jira-demo-board/static/js/main.5abfaf3b.js.map",
+    "453.1d2fb7f9.chunk.js.map": "/jira-demo-board/static/js/453.1d2fb7f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae0fc753.css",
+    "static/js/main.5abfaf3b.js"
+  ]
+}
